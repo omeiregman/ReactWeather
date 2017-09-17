@@ -13,7 +13,7 @@ var About =  (props) => {
 <div className="row">
     <h1 className="text-center">About</h1>
     <div>
-        <p className="text-justify">This is a weathe application built on react.
+        <p className="text-justify">This is a Weather Application built on react.
         I built this as a React Project Demo.
         </p>
         <p> Here are a list of the tools I used</p>
@@ -22,7 +22,7 @@ var About =  (props) => {
             <a href="http://facebook.github.io/react">React</a> - This was the JavaScript framework used
           </li>
           <li>
-            <a href="http://openweathermap.org">Open Weathe Map</a> - I used Open Weather Map to search for weather data by city name.
+            <a href="http://openweathermap.org">Open Weathe Map</a> - I used Open Weather Map's API to search for weather data by city name.
           </li>
         </ul>
     </div>

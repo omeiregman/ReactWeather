@@ -1,7 +1,6 @@
 var webpack = require('webpack');
 
 
-
 module.exports = {
   entry: [
     'script!jquery/dist/jquery.min.js',
